@@ -1,5 +1,6 @@
 # Análise Crítica – Projeto Sentinel do FBI e a aplicação do Scrum
 
+
 Ao analisar o caso do Projeto Sentinel do FBI, percebo como a escolha de uma metodologia de gerenciamento pode influenciar diretamente o sucesso ou o fracasso de um projeto. O que mais me chamou a atenção foi o fato de uma iniciativa que enfrentava dificuldades há aproximadamente dez anos conseguir avançar significativamente após uma mudança na forma de gerenciamento.
 
 Na minha percepção, um dos principais motivos que levaram o projeto a enfrentar tantos problemas foi a utilização de uma abordagem tradicional, baseada no modelo Cascata. Embora essa metodologia tenha sua importância e possa funcionar muito bem em projetos com requisitos bem definidos, acredito que ela não foi a escolha mais adequada para a complexidade do Sentinel. O desenvolvimento de um sistema dessa dimensão envolve diversas variáveis, necessidades que podem mudar e situações que exigem adaptações ao longo do processo. Nesse contexto, seguir etapas muito rígidas acabou dificultando a identificação de problemas e a realização de mudanças necessárias. Por isso, entendo que a adoção de uma abordagem ágil foi uma decisão importante, pois permitiu que o projeto tivesse mais flexibilidade e capacidade de adaptação.

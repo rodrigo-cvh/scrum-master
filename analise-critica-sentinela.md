@@ -1,4 +1,4 @@
-#Análise Crítica – Projeto Sentinel do FBI e a aplicação do Scrum
+# Análise Crítica – Projeto Sentinel do FBI e a aplicação do Scrum
 
 Ao analisar o caso do Projeto Sentinel do FBI, percebo como a escolha de uma metodologia de gerenciamento pode influenciar diretamente o sucesso ou o fracasso de um projeto. O que mais me chamou a atenção foi o fato de uma iniciativa que enfrentava dificuldades há aproximadamente dez anos conseguir avançar significativamente após uma mudança na forma de gerenciamento.
 

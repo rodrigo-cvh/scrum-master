@@ -16,3 +16,12 @@ Um aspecto que também me chamou a atenção foi a redução significativa da eq
 Outro aprendizado que considero importante é que nenhuma metodologia deve ser tratada como uma solução universal. Muitas vezes, existe a tendência de acreditar que uma metodologia específica será capaz de resolver todos os problemas de um projeto, mas o caso do Sentinel mostra que a escolha precisa considerar as características, os objetivos e as dificuldades de cada iniciativa. O modelo Cascata não é necessariamente ruim, assim como o Scrum não garante sucesso por si só. O diferencial está em compreender o contexto e saber adaptar a gestão quando os resultados não estão acontecendo como esperado.
 
 Dessa forma, concluo que o Projeto Sentinel deixa uma lição importante sobre planejamento, liderança e capacidade de adaptação. Para mim, o maior aprendizado desse caso é que reconhecer que uma estratégia não está funcionando e ter coragem para mudá-la pode ser tão importante quanto o planejamento inicial. O sucesso do projeto não aconteceu simplesmente pela adoção do Scrum, mas por uma mudança na forma de trabalhar, de tomar decisões e de envolver as pessoas no desenvolvimento. Isso reforça minha percepção de que, em projetos complexos, a flexibilidade, a comunicação e a melhoria contínua são fatores fundamentais para alcançar bons resultados.
+
+
+## Referências:
+
+Scrum Case: Como o FBI Desenvolveu em 1 ano um projeto que estava atrasado há 10 anos e com economia de 90% do investimento
+https://www.zappts.com/blog/scrum-case-como-o-fbi-desenvolveu-em-1-ano-um-projeto-que-estava-atrasado-ha-10-anos-e-com-economia-de-90-do-investimento/
+
+O Guia Definitivo para o Scrum: As Regras do Jogo (2020)
+https://www.scrum.org
